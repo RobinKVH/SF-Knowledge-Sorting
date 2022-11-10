@@ -1,5 +1,5 @@
 # SF-Knowledge-Sorting
-Salesforce's knowledge and data structure is a real PITA. One pain point is lack of list view sorying based on category. Got around it by using an apex class to transfer it into a custom field on the article. 
+Salesforce's knowledge and data structure is a real PITA. One pain point is lack of list view sorting based on category. Got around it by using an apex class to transfer it into a custom field on the article. 
 
 1. Create a custom obejct on article. In this case it is Category__c.
 
